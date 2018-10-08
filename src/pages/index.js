@@ -5,6 +5,7 @@ import Header from '../components/header'
 const IndexPage = () => (
   <Layout>
     <Header title="HOME!!"/>
+    <Header title="HOME!!"/>
   </Layout>
 )
 
